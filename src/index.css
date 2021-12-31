@@ -1,0 +1,15 @@
+
+body {
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+  /**background-image: url(../src/containers/img.jpg);**/
+  background-color:#182C61;
+}
+
+h1{
+  color: #B33771;
+}
